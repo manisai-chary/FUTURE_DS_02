@@ -94,5 +94,5 @@ FUTURE_DS_02/
 
 ## 🙏 Acknowledgements
 - Thanks to **FUTURE INTERN Program** for the internship opportunity.  
-- Special thanks to mentors and peers for their guidance.  
+  
 
