@@ -72,15 +72,12 @@ It highlights **which campaigns deliver the highest engagement and ROI**, enabli
 
 ## 📂 Repository Structure
 FUTURE_DS_02/
-│── Dataset/
-│ └── archive.zip
-│── task2.pbix
-│── task2.pdf
-│── images/
-│ ├── engagement_rate.png
-│ ├── ctr_roi.png
-│ └── spend_conversions.png
-└── README.md
+├── README.md
+├── Screenshot 2025-09-16 135410.png
+├── archive.zip
+├── task2.pbix
+└── task2.pdf
+
 
 ---
 
