@@ -1,32 +1,36 @@
-# FUTURE_DS_02 - Task 2
+# FUTURE_DS_02 - SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER
 
 ## 📌 Task Overview
 This repository contains the work completed for **Task 2** of my internship.  
-The task focused on **data analysis and visualization using Power BI** to derive meaningful insights from the provided dataset.
+The objective was to analyze **Facebook & Instagram ad campaign data** to evaluate **performance, engagement, CTR (Click-Through Rate), and ROI (Return on Investment)**.  
+The insights were presented through an **interactive dashboard** for better decision-making.
 
 ---
 
 ## 🔹 Key Steps
 1. **Data Import & Cleaning**
-   - Imported the dataset from the provided files.
-   - Cleaned missing and duplicate values for consistency.
-   - Created calculated columns and measures using **DAX**.
+   - Imported raw ad campaign data from the provided dataset.
+   - Cleaned inconsistencies, handled missing values, and standardized formats.
+   - Prepared calculated fields for CTR, ROI, and engagement metrics.
 
 2. **Exploratory Analysis**
-   - Identified best-selling products and high-revenue categories.
-   - Analyzed sales trends across different time periods.
-   - Segmented data to highlight performance patterns.
+   - Evaluated campaign reach, impressions, clicks, conversions, and spend.
+   - Segmented campaigns by **platform, audience type, and ad creatives**.
+   - Identified high-performing vs underperforming campaigns.
 
 3. **Dashboard Creation**
-   - Built an **interactive Power BI dashboard** with:
-     - Filters and slicers for easy navigation  
-     - Visuals for **sales trends, category performance, and top products**  
-   - Ensured the dashboard is clear, intuitive, and business-focused.
+   - Built an **interactive dashboard** using Power BI (and optionally Google Looker Studio).
+   - Visualized:
+     - Engagement Rate (likes, shares, comments)  
+     - CTR (click-through rate)  
+     - ROI (return on investment)  
+     - Cost per Click (CPC) and Cost per Conversion  
+   - Designed a clean, business-focused storytelling dashboard.
 
 4. **Insights & Observations**
-   - Determined which categories drive the most revenue.  
-   - Highlighted top-performing products.  
-   - Provided insights that can help improve sales strategy.  
+   - Determined campaigns with the **best ROI** and engagement.  
+   - Highlighted areas where ad spend can be optimized.  
+   - Suggested strategies for campaign improvement and better targeting.  
 
 ---
 
@@ -39,31 +43,33 @@ The task focused on **data analysis and visualization using Power BI** to derive
 
 ## 🖼️ Dashboard Preview
 
-Here are some snapshots from the Power BI dashboard:
+Here are some snapshots from the campaign dashboard:
 
-### 🔹 Sales Trends
-![Sales Trends](images/sales_trends.png)
+### 🔹 Engagement Rate
+![Engagement](images/engagement_rate.png)
 
-### 🔹 Category-Wise Performance
-![Category Performance](images/category_performance.png)
+### 🔹 CTR & ROI
+![CTR & ROI](images/ctr_roi.png)
 
-### 🔹 Top Products
-![Top Products](images/top_products.png)
+### 🔹 Campaign Spend vs Conversions
+![Spend vs Conversions](images/spend_conversions.png)
 
 *(Screenshots are saved inside the `images/` folder of this repo.)*
 
 ---
 
 ## 🛠️ Tools & Skills Used
-- **Power BI** (Data visualization & dashboarding)  
-- **DAX** (Data Analysis Expressions)  
-- **Data Cleaning & Preprocessing**  
-- **Business Storytelling & Insights**  
+- **Power BI** (Dashboard creation & storytelling)  
+- **Google Looker Studio** (Optional visualization)  
+- **Excel/Google Sheets** (Data cleaning & preprocessing)  
+- **Canva** (Optional for presentation design)  
+- **Skills Gained**: Marketing Analytics, Campaign Optimization, Dashboard Storytelling  
 
 ---
 
 ## 🚀 Outcome
-The final Power BI dashboard provides a **comprehensive and interactive view of business performance**, enabling **data-driven decision making** with actionable insights.
+The final dashboard provides a **comprehensive overview of social media campaign performance**.  
+It highlights **which campaigns deliver the highest engagement and ROI**, enabling **data-driven marketing decisions**.
 
 ---
 
@@ -74,20 +80,19 @@ FUTURE_DS_02/
 │── task2.pbix
 │── task2.pdf
 │── images/
-│ ├── sales_trends.png
-│ ├── category_performance.png
-│ └── top_products.png
+│ ├── engagement_rate.png
+│ ├── ctr_roi.png
+│ └── spend_conversions.png
 └── README.md
+
 ---
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/manisai-chary/FUTURE_DS_02)
-  
+- [GitHub Repository](https://github.com/manisai-chary/FUTURE_DS_02)  
 
 ---
-
-✨ *Task 2 successfully completed!*  
 
 ## 🙏 Acknowledgements
 - Thanks to **FUTURE INTERN Program** for the internship opportunity.  
 - Special thanks to mentors and peers for their guidance.  
+
