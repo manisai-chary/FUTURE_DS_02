@@ -40,23 +40,20 @@ The insights were presented through an **interactive dashboard** for better deci
 - **PDF Report Export** (`task2.pdf`)  
 
 ---
+## 📈 Key Metrics and Formulas
 
-## 🖼️ Dashboard Preview
+To gain a comprehensive understanding of the campaign's performance, the following key metrics were calculated using custom columns:
 
-Here are some snapshots from the campaign dashboard:
+* **Click-Through Rate (CTR)**: Measures how often users clicked on the ads.
+    * `CTR = (Clicks / Impressions) * 100`
 
-### 🔹 Engagement Rate
-![Engagement](images/engagement_rate.png)
+* **Cost Per Click (CPC)**: Measures the cost of each click.
+    * `CPC = Spend / Clicks`
 
-### 🔹 CTR & ROI
-![CTR & ROI](images/ctr_roi.png)
+* **Return on Investment (ROI)**: Measures the profitability of the campaign.
+    * `ROI = (Approved Conversions - Spend) / Spend`
 
-### 🔹 Campaign Spend vs Conversions
-![Spend vs Conversions](images/spend_conversions.png)
-
-*(Screenshots are saved inside the `images/` folder of this repo.)*
-
----
+  ---
 
 ## 🛠️ Tools & Skills Used
 - **Power BI** (Dashboard creation & storytelling)  
